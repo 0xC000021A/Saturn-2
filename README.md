@@ -1,4 +1,4 @@
-# Saturn (Project Soni)
+L# Saturn (Project Soni)
 ## Disclaimer
 This repo contains source code to a powerful malware.
 The test release versions might not always contain warnings that it is a malware, so be careful handling this malware.
@@ -47,12 +47,14 @@ Currently There Are No Contributors To This Repository.
 + ***Saturn.exe Deadline Date: 18/9/2022. (45 Days Remaining)***
 + ***Current Developmental Phase: Pre-Test***
 + ***Next Developmental Phase: Alpha Test***
++ ***Current Predicted Stability Phase***
 
 The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
-There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, Ladanics, Madanics, Radanics, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Pre-Stable, Stable Test.
+There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, Ladanics, Madanics, Radanics, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Release Stabilization And Post-Release Fixes.
+
 Phases After General Stabilization Will Have A Release Of The Malware For Review Purposes. ***THESE MIGHT NOT ALWAYS CONTAIN A WARNING IN CASE OF ACCIDENTAL EXECUTION ON AN ELEVATED USER ACCOUNT.*** Have UAC On At Times When You Are Copying The Malware To Virtual Machine For Testing Or Run On An Unelevated User Account.
 In The Developmental Phases, There Are 5 Phases Where The Malware's Predicted Stability Is Displayed.
-The Predicted Stability Phases Are: Destabilized Verification And Project Setup,    PLST, FSVPPS.
+The Predicted Stability Phases Are: Unstable Traversal Verification, Initial Unstable Generalized Traversal Code Test Stability, Post Generalized Unstable Traversal Code Test Stability, Dynamic Execution Stability And Dynamic Release Stability.
 <sup>C6H14</sup>
 
 ### Requirements
