@@ -49,11 +49,14 @@ Currently There Are No Contributors To This Repository.
 + ***Next Developmental Phase: Alpha Test***
 
 The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
-There Are Many Developmental Phases: Pre-Test, Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, Ladonics, Madonics, Radonics, General Stabilization, Release Candidates 1-6, Pre-Stable And Stable.
-Phases After General Stabilization Will Have A Release Of The Malware For Review Purposes. ***THESE MIGHT NOT ALWAYS CONTAIN A WARNING IN CASE OF ACCIDENTAL EXECUTION ON AN ELEVATED USER ACCOUNT.*** Have UAC On At Times When You Are Copying The Malware To Virtual Machine For Testing etc.
+There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, Ladanics, Madanics, Radanics, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Pre-Stable, Stable Test.
+Phases After General Stabilization Will Have A Release Of The Malware For Review Purposes. ***THESE MIGHT NOT ALWAYS CONTAIN A WARNING IN CASE OF ACCIDENTAL EXECUTION ON AN ELEVATED USER ACCOUNT.*** Have UAC On At Times When You Are Copying The Malware To Virtual Machine For Testing Or Run On An Unelevated User Account.
 In The Developmental Phases, There Are 5 Phases Where The Malware's Predicted Stability Is Displayed.
-The Predicted Stability Phases Are: 
+The Predicted Stability Phases Are: Destabilized Verification And Project Setup,    PLST, FSVPPS.
 <sup>C6H14</sup>
+
+### Requirements
+
 
 ## FAQ
 ### Here Are Some Frequently Asked Questions And Answers. These Might Be Helpful To You!.
