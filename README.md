@@ -1,4 +1,4 @@
-L# Saturn (Project Soni)
+# Saturn (Project Soni)
 ## Disclaimer
 This repo contains source code to a powerful malware.
 The test release versions might not always contain warnings that it is a malware, so be careful handling this malware.
