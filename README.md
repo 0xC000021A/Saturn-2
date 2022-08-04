@@ -41,5 +41,19 @@ Currently There Are No Contributors To This Repository.
 - [x] Test
 - [ ] Test2
 
+### Additional Info
+
++ ***Saturn.exe Full Stable Build Progress: 50%***
++ ***Saturn.exe Deadline Date: 18/9/2022. (45 Days Remaining)***
++ ***Current Developmental Phase: Pre-Test Phase***
++ ***Next Developmental Phase: Alpha Test Phase***
++ ***Saturn Test Progress: 0%***
+
+The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
+There Are Many Test Phases: Pre-Test, Alpha, Beta, Gamma, Delta, Lambda, Ladonics, Madonics, Radonics, Stabilization, Release Candidates 1-6, Pre-Final Stable And Final Stable.
+In These, There Are Phases Where The Malwares Stability Is Displayed.
+The Stability Phases Are: 
+<sup>C6H14</sup>
+
 ## FAQ
 <sup>C15H13N3O4S</sup>
