@@ -19,10 +19,10 @@ Or Watch The Video On My YouTube Channel:
 <sup>C9H8O4</sup>
 ## Contributions
 Thanks To:
-1. Enderman ([Youtube](https://youtube.com/c/Endermanch), [Website](https://malwarewatch.org/), [Twitter](https://mobile.twitter.com/endermanch))
-2. Leurak ([Youtube](https://youtube.com/c/Leurak), [Twitter](https://mobile.twitter.com/LeurAK47))
-3. Wipet ([Youtube](https://youtube.com/c/wipet))
-4. NullException
++ Enderman ([Youtube](https://youtube.com/c/Endermanch), [Website](https://malwarewatch.org/), [Twitter](https://mobile.twitter.com/endermanch))
++ Leurak ([Youtube](https://youtube.com/c/Leurak), [Twitter](https://mobile.twitter.com/LeurAK47))
++ Wipet ([Youtube](https://youtube.com/c/wipet))
++ NullException
 
 And Others for giving me inspiration through their own creations.
 
@@ -56,6 +56,7 @@ The Predicted Stability Phases Are:
 <sup>C6H14</sup>
 
 ## FAQ
-Qn: 
-Ans:
+### Here Are Some Frequently Asked Questions And Answers. These Might Be Helpful To You!.
+***Qn:*** When Is Release Of Saturn.exe?
+***Ans:*** Please Take A Look At Additional Info Under More About Saturn Section To Know More.
 <sup>C15H13N3O4S</sup>
