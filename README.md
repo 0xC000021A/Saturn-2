@@ -50,10 +50,12 @@ Currently There Are No Contributors To This Repository.
 + ***Saturn Test Progress: 0%***
 
 The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
-There Are Many Test Phases: Pre-Test, Alpha, Beta, Gamma, Delta, Lambda, Ladonics, Madonics, Radonics, Stabilization, Release Candidates 1-6, Pre-Final Stable And Final Stable.
-In These, There Are Phases Where The Malwares Stability Is Displayed.
-The Stability Phases Are: 
+There Are Many Test Phases: Pre-Test, Alpha, Beta, Gamma, Delta, Lambda, Ladonics, Madonics, Radonics, General Stabilization, Release Candidates 1-6, Pre-Final Stable And Final Stable.
+In These, There Are 5 Phases Where The Malware's Predicted Stability Is Displayed.
+The Predicted Stability Phases Are: 
 <sup>C6H14</sup>
 
 ## FAQ
+Qn: 
+Ans:
 <sup>C15H13N3O4S</sup>
