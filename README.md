@@ -11,7 +11,7 @@ Currently, there will not be any releases as it is still being tested. That does
 3. [More About Saturn](https://github.com/AlvinIsSoCool/Saturn#more-about-saturn)
 4. [FAQ](https://github.com/AlvinIsSoCool/Saturn#faq)
 ## What Is Saturn?
-Saturn is a malware that recreates some NoEscape payloads (except January 14th One, I Don't Know How You Pulled It Of [Enderman](https://youtube.com/c/Endermanch)).
+Saturn is a malware that recreates some NoEscape payloads (except January 14th One, I Don't Know How You Pulled It Off [Enderman](https://youtube.com/c/Endermanch)).
 It has some other payloads and overall just mentioning all the things will not be of any use, so once the exe is out, you can all test it in a virtual machine.
 Or Watch The Video On My YouTube Channel: 
 <sup>C9H8O4</sup>
