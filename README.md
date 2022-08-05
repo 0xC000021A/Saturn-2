@@ -56,11 +56,22 @@ The Predicted Stability Phases Are: Multiple-Test Stability, General Stability, 
 ### Requirements
 ***There are no special requirements, but, the latest version of visual redistributable should be installed.***
 ## FAQ
-### Here Are Some Frequently Asked Questions And Answers. These Might Be Helpful To You!.
+### Here Are Some Frequently Asked Questions And Answers. These Might Be Helpful To You!, Some Might Not Be.
 ***Qn:*** When Is Release Of Saturn.exe?                     
-***Ans:*** Please Take A Look At Additional Info Under More About Saturn Section To Know More.                           
+***Ans:*** Please Take A Look At Additional Info Under More About Saturn Section To Know More.           
+                
 ***Qn:*** I Looked At The Source Code And Think I Have Saw A Bug, What Do I Do?                       
-***Ans:*** Put The Exact Problem That You Found In The Source Code, Heading And An Optional Discription About The Bug You Found And Create An Issue. I Will Look Into It.                  
+***Ans:*** Put The Exact Problem That You Found In The Source Code, Heading And An Optional Description And Create An Issue. I Will Look Into It. Btw, This Will Apply For Release Version Also.                
+ 
 ***Qn:*** I Want To Contribute To This Project By Creating Something Cool, How Can I Do This?                     
 ***Ans:*** Create A Pull Request, Follow This: [All About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), After, When I Get Time I Will Review The Changes And If Appropriate, I Will Merge It To The Main Branch And You Will Be Displayed In Contributions Section Of This Readme.
+
+***Qn:*** Will You Make This Project Actually Open-Source?                    
+***Ans:*** Well, I Thought At First To Not Make It Open-Source, But All My Other Projects Source Will Be Released Soon. So, Yes, I Will Release The Source Code 
+
+***Qn:*** You Said Something About Pseudo-Code, So, The Source Released Will Not Be Real, Working Source?                            
+***Ans:*** It Think You Meant 'Compilable', Well, The Pseudo-Code Is Only For The Test Phases And General Stability Phase. After That Phase, The Real, Compilable Source Will Be Released.
+
+***Qn:*** I Want To Use Your Source For ***My*** Malware Creation, Can I Use It Without Consequences?                     
+***Ans:***
 <sup>C15H13N3O4S</sup>
