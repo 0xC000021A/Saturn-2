@@ -45,13 +45,13 @@ There are (as of now) no known issues because the malware development hasn't rea
 + ***Saturn.exe Deadline Date: 18/9/2022. (45 Days Remaining)***
 + ***Current Developmental Phase: Pre-Test***
 + ***Next Developmental Phase: Alpha Test***
-+ ***Current Predicted Stability Phase: Pre-Unstable Traversal Verification***
++ ***Current Predicted Stability Phase: ***
 
 The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
-There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, Ladanics, Madanics, Radanics, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Release Stabilization And Post-Release Fixes.
+There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Release Stabilization And Post-Release Fixes.
 Phases After General Stabilization Will Have A Release Of The Malware For Review Purposes. ***THESE MIGHT NOT ALWAYS CONTAIN A WARNING IN CASE OF ACCIDENTAL EXECUTION ON AN ELEVATED USER ACCOUNT.*** Have UAC On At Times When You Are Copying The Malware To Virtual Machine For Testing Or Run On An Unelevated User Account.
-In The Developmental Phases, There Are 5 Phases Where The Malware's Predicted Stability Is Displayed.
-The Predicted Stability Phases Are: Unstable Traversal Verification, Initial Unstable Generalized Traversal Code Test Stability, Post Generalized Unstable Traversal Code Test Stability, Dynamic Execution Stability And Dynamic Release Stability.
+In The Developmental Phases, There Are 4 Phases Where The Malware's Predicted Stability Is Displayed.
+The Predicted Stability Phases Are: Multiple-Test Stability, General Stability, Dynamic Execution Stability And Release Stability.
 <sup>C6H14</sup>
 ### Requirements
 ***There are no special requirements, but, the latest version of visual redistributable should be installed.***
