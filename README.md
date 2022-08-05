@@ -62,5 +62,5 @@ The Predicted Stability Phases Are: Multiple-Test Stability, General Stability, 
 ***Qn:*** I Looked At The Source Code And Think I Have Saw A Bug, What Do I Do?                       
 ***Ans:*** Put The Exact Problem That You Found In The Source Code, Heading And An Optional Discription About The Bug You Found And Create An Issue. I Will Look Into It.                  
 ***Qn:*** I Want To Contribute To This Project By Creating Something Cool, How Can I Do This?                     
-***Ans:*** Create A Pull Request, Follow This Guide: , After, When I Get Time I Will Review The Changes And If Appropriate, I Will Merge It To The Main Branch And You Will Be Displayed In Contributions Of This Readme.
+***Ans:*** Create A Pull Request, Follow This: [All About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), After, When I Get Time I Will Review The Changes And If Appropriate, I Will Merge It To The Main Branch And You Will Be Displayed In Contributions Section Of This Readme.
 <sup>C15H13N3O4S</sup>
