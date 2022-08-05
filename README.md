@@ -45,7 +45,7 @@ There are (as of now) no known issues because the malware development hasn't rea
 + ***Saturn.exe Deadline Date: 18/9/2022. (45 Days Remaining)***
 + ***Current Developmental Phase: Pre-Test***
 + ***Next Developmental Phase: Alpha Test***
-+ ***Current Predicted Stability Phase: ***
++ ***Current Predicted Stability Phase:***
 
 The Deadline Is There Just For Fun. The Deadline Date Is My Cat's Birthday.
 There Are Many Developmental Phases: Pre-Test (Pre-Code Verification), Alpha Test, Beta Test, Gamma Test, Delta Test, Lambda Test, General Stabilization (Code Cleanup, Set-Wise Debugging), Release Candidates 1-6, Release Stabilization And Post-Release Fixes.
