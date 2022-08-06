@@ -70,7 +70,7 @@ The Predicted Stability Phases Are: Multiple-Test Stability, General Stability, 
 ***Ans:*** Well, I Thought At First To Not Make It Open-Source, But All My Other Projects Source Will Be Released Soon. So, Yes, I Will Release The Source Code 
 
 ***Qn:*** You Said Something About Pseudo-Code, So, The Source Released Will Not Be Real, Working Source?                            
-***Ans:*** It Think You Meant 'Compilable', Well, The Pseudo-Code Is Only For The Test Phases And General Stability Phase. After That Phase, The Real, Compilable Source Will Be Released.
+***Ans:*** It Think You Meant 'Compilable', Well, The Pseudo-Code Is Only For The Test Phases And General Stability Phase. After That Phase, The Real, Compilable Source Will Be Released. ***Not Guaranteed***
 
 ***Qn:*** I Want To Use Your Source For ***My*** Malware Creation, Can I Use It Without Consequences?                             
 ***Ans:*** For Any Malware Creation, I Like To Include A Reference And A Link To The Place I Found The Code. It Depends On You, If You Want To Credit The Source Code Owner, You Can.
